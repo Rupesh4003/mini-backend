@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "name": "Pratik",
+      "age": 34,
+      "place": "Patna",
+      "batch": "WEB-18",
+      "profession": "FSD",
+      "image": "https://images.unsplash.com/photo-1663000682271-4b40afaba2a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "name": "Yogesh",
+      "age": 38,
+      "place": "Banglore",
+      "batch": "WEB-18",
+      "profession": "FSD",
+      "image": "https://images.unsplash.com/photo-1663000682271-4b40afaba2a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 7,
+      "name": "Pratik",
+      "age": 32,
+      "place": "Banglore",
+      "batch": "WEB-17",
+      "profession": "FSD",
+      "image": "https://images.unsplash.com/photo-1663000682271-4b40afaba2a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 8,
+      "name": "Albert",
+      "age": 36,
+      "place": "Chennai",
+      "batch": "WEB-18",
+      "profession": "FSD",
+      "image": "https://images.unsplash.com/photo-1663000682271-4b40afaba2a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+  ]
+}
